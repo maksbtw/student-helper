@@ -28,7 +28,7 @@ code student-helper
 Dalej dzialamy z wbudowanego terminala w VSCode (Ctrl + `) <br>
 4. Sprawdzenie czy projekt zostal poprawnie pobrany
 ```
-gti status
+git status
 ```
 Musi wyskoczyc podobny napis
 ```
