@@ -9,6 +9,10 @@ Roznica miedzy GIT i Github jest wazna: <br>
 
 Wszystko co bedziesz sobie robil w terminalu na komputerze bedzie odbywac sie na twojej lokalnej kopii repozytorium. Jesli nie widzisz czegos co jest na Github stronie, prawdopodobnie nie zaktualizowales danych lokalnych (pull)
 
+### Fajne linki
+[CheatSheet](https://education.github.com/git-cheat-sheet-education.pdf) <br>
+[Файлик с курсов (укр версия)](https://docs.google.com/document/d/1lCt8y3kz62z5dAlMvJ7kQRWouHJRkr991cBHc1bhSbU/edit?tab=t.0#heading=h.w1hy05o1ju5m) где много чего написано полезного но сразу все читать не советую (утонете в инфе)
+
 # Pobieranie projektu
 
 GIT ma juz byc pobrany i zasinstalowany, komenda do sprawdzenia:
