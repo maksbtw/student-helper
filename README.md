@@ -1,3 +1,5 @@
+# Instrukcja uzywanie Git
+
 # Wazne
 Nigdy nie uzywac <b>git init</b> dla folder-u korzeniowego systemu. Inczej GIT bedzie obserowal zmiany w calym systemie i trudno potem to usunac. <br>
 
